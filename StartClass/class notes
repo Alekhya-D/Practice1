@@ -1,0 +1,16 @@
+01-01-2022
+C is procedural language
+number of objects can be created in any object oriented programming
+A class is the blueprint from which specific objects are created
+
+for creating instance for a class
+<reference name> = <className>()
+
+for creating class methods we need to send self as a default parameter to access the class variables in the def/methods
+class<className>
+    def<methodName>(self,<other parameters>)
+    <method body>
+
+in init program if we didnot assign any values while calling the fn then the defaault value which is assigned at the inti methos is taaken
+
+
